@@ -7369,6 +7369,15 @@
 
     <!-- Summary of condition that cellular data is off [CHAR LIMIT=NONE] -->
     <string name="condition_cellular_summary">Internet is available only via Wi-Fi</string>
+	
+	<!-- Title of condition that cellular data is off [CHAR LIMIT=30] -->
+    <string name="condition_sysupdate_title">Dot OS Update Availiable</string>
+
+    <!-- Summary of condition that cellular data is off [CHAR LIMIT=NONE] -->
+    <string name="condition_sysupdate_summary">Download latest firmware update</string>
+	
+	<!-- Turn on a conditional state of the device (e.g. sysupdate) [CHAR LIMIT=30] -->
+    <string name="condition_update">Update</string>
 
     <!-- Title of condition that background data is off [CHAR LIMIT=30] -->
     <string name="condition_bg_data_title">Data Saver is on</string>
